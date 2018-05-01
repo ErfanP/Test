@@ -1,8 +1,8 @@
 body {
    background-image: url("https://i5.walmartimages.com/asr/6fce9944-d425-4b4e-aa48-42a7c07edfe4_1.6eab6959a5c2e2ffe555fd0dd4daabc5.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF");
    background-color: #cccccc;
-   opacity: 0.2;
-    filter: alpha(opacity=10); /* For IE8 and earlier */
+   opacity: 0.5;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
 }
 
 h1 {

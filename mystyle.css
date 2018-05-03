@@ -1,12 +1,12 @@
 body {
    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEWQ7pBqm8gMAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=");
 background-color: #cccccc;
+<p><font size="3" color="red">This is some text!</font></p>
 }
 
 
 h1 {
 color: Blue;
-<p><font size="3" color="red">This is some text!</font></p>
 }
 
 p {

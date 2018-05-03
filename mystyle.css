@@ -5,29 +5,59 @@ background-color: #cccccc;
 
 
 h1 {
-color: Blue;
+  color: orange;
 }
 
-p {
-  color: Green;
+p { 
+  color: purple;
   }
-p.inset {
-  border-style: inset;
-}
+body {background-color: coral;}
 
-.custom-version1 {
-  border: 1px solid black;
-  outline-style: solid;
-  outline-color: DarkBlue;
-}
 p {
     text-decoration: underline;
-    text-decoration-color: red;
+    text-decoration-color: blue;
 }
 p.a {
     font-family: "Times New Roman", Times, serif;
 }
+
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+}
 div.a {
+    font-size: 20px;
+}
+
+div.b {
+    font-size: large;
+}
+
+div.c {
+    font-size: 175%;
+}
+div.a {
+    height: auto;
+    border: 1px solid yellow;
+}
+
+div.b {
     height: 50px;
-    border: 1px solid black;    
+    border: 1px solid grey; 
+}
+div.a {
+    width: auto;
+    border: 1px solid pink;
+}
+
+div.b {
+    width: 150px;
+    border: 1px solid; 
+}
+
+div.c {
+    width: 50%;
+    border: 1px solid red; 
+}
+a:link { 
+    background-color: red;
 }

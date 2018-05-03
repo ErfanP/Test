@@ -28,5 +28,6 @@ p.a {
     font-family: "Times New Roman", Times, serif;
 }
 div.a {
-    font-size: 15px;
+    height: 50px;
+    border: 1px solid black;    
 }

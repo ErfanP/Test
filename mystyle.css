@@ -11,3 +11,7 @@ color: Blue;
 p {
   color: Green;
   }
+div.a {
+    height: auto;
+    border: 1px solid black;
+}

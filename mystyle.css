@@ -55,10 +55,10 @@ div.b {
 }
 div.c {
     width: 50%;
-    border: 1px solid white; 
+    border: 1px solid blue; 
 }
 a:link { 
-    background-color: white;
+    background-color: blue;
 }
 div.a {
     line-height: normal;
